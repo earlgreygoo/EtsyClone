@@ -118,7 +118,7 @@ var Controller = Backbone.Router.extend({
 				"includes": "MainImage,shop"
 			}
 		})
-	}
+	},
 	
 	handleDefault: function(){ 
 		location.hash = "home" 
